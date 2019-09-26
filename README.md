@@ -1,1 +1,11 @@
 # Tugas-apa-ajalah-pokoknya
+![Alt Text](https://github.com/Fara28r2/Tugas-apa-ajalah-pokoknya/blob/master/ProgramDuluBosque%20-%20NetBeans%20IDE%208.0.2%2026_09_2019%2014_04_10.png)
+![Alt Text](https://github.com/Fara28r2/Tugas-apa-ajalah-pokoknya/blob/master/ProgramDuluBosque%20-%20NetBeans%20IDE%208.0.2%2026_09_2019%2014_58_31.png)
+![Alt Text](https://github.com/Fara28r2/Tugas-apa-ajalah-pokoknya/blob/master/ProgramDuluBosque%20-%20NetBeans%20IDE%208.0.2%2026_09_2019%2014_59_02.png)
+![Alt Text](https://github.com/Fara28r2/Tugas-apa-ajalah-pokoknya/blob/master/ProgramDuluBosque%20-%20NetBeans%20IDE%208.0.2%2026_09_2019%2015_54_08.png)
+![Alt Text](https://github.com/Fara28r2/Tugas-apa-ajalah-pokoknya/blob/master/ProgramDuluBosque%20-%20NetBeans%20IDE%208.0.2%2026_09_2019%2015_54_44.png)
+![Alt Text](https://github.com/Fara28r2/Tugas-apa-ajalah-pokoknya/blob/master/ProgramDuluBosque%20-%20NetBeans%20IDE%208.0.2%2026_09_2019%2016_01_22.png)
+![Alt Text](https://github.com/Fara28r2/Tugas-apa-ajalah-pokoknya/blob/master/ProgramDuluBosque%20-%20NetBeans%20IDE%208.0.2%2026_09_2019%2016_01_32.png)
+![Alt Text](https://github.com/Fara28r2/Tugas-apa-ajalah-pokoknya/blob/master/ProgramDuluBosque%20-%20NetBeans%20IDE%208.0.2%2026_09_2019%2016_01_33.png)
+![Alt Text](https://github.com/Fara28r2/Tugas-apa-ajalah-pokoknya/blob/master/ProgramDuluBosque%20-%20NetBeans%20IDE%208.0.2%2026_09_2019%2016_15_50.png)
+![Alt Text](https://github.com/Fara28r2/Tugas-apa-ajalah-pokoknya/blob/master/ProgramDuluBosque%20-%20NetBeans%20IDE%208.0.2%2026_09_2019%2016_32_28.png)
